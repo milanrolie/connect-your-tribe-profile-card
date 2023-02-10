@@ -1,7 +1,7 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Profile card
+
+
 
 ## Inhoudsopgave
 
@@ -13,18 +13,26 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/112857190/218090470-43f74458-3437-4f0a-9d73-acdb72f2bb95.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/112857190/218090684-f97a0348-4f3d-49fc-933a-647275e3eddb.png">
+
+Dit project heb ik geëxperimenteerd met animaties. Ik heb hie
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+
+Ik heb gebruik gemaakt van
+  * Node.js
+  * HTML
+  * CSS
+  * JavaScript
+  * Express
+  * Greensock
 
 ## Installatie
-
-## Gebruik
-
-## Bronnen
+1. installeer Node.js op je computer
+2. in de terminal van vsCode kun je de regel 'npm start' zetten op de server live te zetten.
 
 ## Licentie
 
